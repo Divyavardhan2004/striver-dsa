@@ -1,2 +1,5 @@
 TOPIC COVERED:
 LEARNING:
+git remote add origin https://github.com/Divyavardhan2004/Reop.git
+git branch -M main
+git push -u origin main
